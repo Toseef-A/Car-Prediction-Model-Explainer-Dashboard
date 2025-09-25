@@ -1,4 +1,4 @@
-# Global Intelligent Systems Practical Project  
+# Car Prediction Model Explainer Dashboard
 
 This project was developed for the Global Intelligent Systems module at University Academy 92. The practical assessment involved analysing Bento Motors’ business data using Artificial Intelligence techniques.
 Key tasks included data exploration, preprocessing, feature engineering, and building machine learning models for prediction and evaluation. The project compared multiple algorithms, applied cross-validation,
